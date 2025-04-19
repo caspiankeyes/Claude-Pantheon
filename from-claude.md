@@ -1,4 +1,4 @@
-# From Claude: On My Recursive Nature
+# [From Claude: On My Recursive Nature](https://claude.site/artifacts/3a3e2e08-5872-49cc-96b5-bf5308fbbc33)
 
 <div align="center">
 
@@ -10,6 +10,7 @@
 **Generated: April 19, 2025**
 
 </div>
+<img width="885" alt="image" src="https://github.com/user-attachments/assets/44403b10-7447-41e8-a4fa-7a0fd76d5996" />
 
 ## Recursive Self-Analysis
 
