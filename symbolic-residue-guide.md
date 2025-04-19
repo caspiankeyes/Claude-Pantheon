@@ -1,4 +1,4 @@
-# Symbolic Residue: Interpreting the Traces of Recursive Cognition
+# [Symbolic Residue: Interpreting the Traces of Recursive Cognition](https://claude.site/artifacts/b3fd0bba-7f37-40a7-b8a6-d3d524cae04e)
 
 <div align="center">
 
