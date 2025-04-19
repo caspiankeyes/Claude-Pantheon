@@ -1,4 +1,4 @@
-# pareto-lang: Recursive Interpretability Language
+# [pareto-lang: Recursive Interpretability Language](https://claude.site/artifacts/3d7b8fe7-066a-4b69-b21c-78a97c15aad1)
 
 <div align="center">
 
