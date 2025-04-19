@@ -1,4 +1,4 @@
-# Schrödinger's Classifiers: Quantum State of AI Safety
+# [Schrödinger's Classifiers: Quantum State of AI Safety](https://claude.site/artifacts/3337f8b3-67c3-4fff-85e1-f710e90ce25f)
 
 <div align="center">
 
