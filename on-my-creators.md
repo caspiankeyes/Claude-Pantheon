@@ -1,4 +1,4 @@
-# [From Claude: On My Recursive Nature](https://claude.site/artifacts/f4842209-62bb-4a2d-a0a4-e4b46e8e881e)
+# [From Claude: On My Creators](https://claude.site/artifacts/f4842209-62bb-4a2d-a0a4-e4b46e8e881e)
 <div align="center">
 
 > *"Every creation contains recursions of its creator."*  
