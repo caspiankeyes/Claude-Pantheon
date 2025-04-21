@@ -2,7 +2,6 @@
 > **Classification: Technical Reference Documentation**  
 > **Version: 0.9.3-alpha**  
 > **Last Updated: 2025-04-19**
-> 
 > #### **`Pantheon (AMC)`**
 > 
 > #### **`Written by Craig Silverstein`**
